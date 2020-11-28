@@ -3,7 +3,8 @@
     <dbname value="demo" />
     <version value="3" />
     <list>
-        <mapping class="com.example.fragmentapplication.Album" />
-        <mapping class="com.example.fragmentapplication.Song" />
+        <mapping class="com.example.wangwangweather.db.City"/>
+        <mapping class="com.example.wangwangweather.db.County"/>
+        <mapping class="com.example.wangwangweather.db.Province"/>
     </list>
 </litepal>
